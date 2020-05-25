@@ -1,5 +1,4 @@
-[VIEW](https://svetlanazlydneva.github.io/goit-js-hw-10-food-service/)
-**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**
+**[VIEW](https://svetlanazlydneva.github.io/goit-js-hw-10-food-service/)**
 
 # Критерии приема
 
